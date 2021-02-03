@@ -8,5 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 ### GitHub username: briansayre  
-His most recent commit was his first commit and the commit ID was 60032a0d7fb4dabad2625211e5c01781739b701f.  
+  
+His most recent commit was his first commit and the commit ID was 60032a0d7fb4dabad2625211e5c01781739b701f. 
+  
 Following instuctions can make things easier along with good visuals.
